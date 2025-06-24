@@ -4,7 +4,7 @@
 
 I'm a **Full-Stack Engineer** with over 7 years of professional experience. I specialize in backend development with **NestJS**, **Express.js**, and **Python (FastAPI)**, and frontend development using **React.js** and **Vue.js**.
 
-- ⚡ **Fun fact:** I enjoy breaking down complex problems into simple and scalable solutions.
+- ⚡ **Fun fact:** I love software development, continuous learning, and ramen 🍜.
 - 🔭 Currently focusing on:
   - Building clean architecture APIs
   - Test-Driven Development (TDD)
